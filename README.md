@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contains all the notes taken by Ashley for the Lighthouse Labs Data Science Bootcamp
+This repository contains all the notes taken by [Ashley](https://github.com/Ashbowes) for the [Lighthouse Labs](https://github.com/Ashbowes) Data Science Bootcamp
 
 # Ashley's Notes
 # This is an H1 header (largest)
